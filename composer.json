@@ -1,8 +1,10 @@
 {
     "name": "notomato/li3_mailer",
     "description": "Lithium mailer",
+    "type": "lithium-library",
     "authors": [
     ],
     "require": {
+        "composer/installers": "*"
     }
 }
